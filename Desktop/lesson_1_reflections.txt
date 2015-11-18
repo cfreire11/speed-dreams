@@ -1,0 +1,8 @@
+lesson_1_reflections.txt
+Viewing the code in a diff between two different files helps isolate the errors. Git finds all the differences so you can expitite the editing process.
+With complex programs, having them all in one area helps a programmer keep track of where files are. I am already having trouble finding files so I need to starting working on this as so as possible.
+Manual commits are usefully because you get to choose when you commit. This means you can make commits at points when you seem fit. But auto commits are helpful for people who might not remember to always commit. Auto commits also have down sides such as commiting without a proper working game which can lead to unhelpful commits.
+When you save all the files together it makes it easy to find how all the files of code corralate with eachother. Saving seperatley though helps make sure you aren't make huge changes to the whole program that might mess up the code.
+Git log lets you track all of your recent commits so you can then use git diff to compare two commits.
+With version control I can always go back a check what works and what doesnt work. I don't need to worry about breaking or ruining my code.
+I dont really know. I don't have any programs that i have created by I know thi will be important for our open source project.
